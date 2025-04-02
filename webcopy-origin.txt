@@ -1,0 +1,236 @@
+Uri: https://fonts.googleapis.com/css?family=Lato:400,700,400italic
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\s\lato\v24\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/aws.html
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\aws.html
+Content Type: text/html
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-bootstrap/css/bootstrap-light.min.css
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-bootstrap\css\bootstrap-light.min.css
+Content Type: text/css
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-bootstrap/css/bootstrap.min.css
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-bootstrap/js/bootstrap.min.js
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/css/all.min.css
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-handlebars/handlebars-v3.0.0.js
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-handlebars\handlebars-v3.0.0.js
+Content Type: application/javascript
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-jquery/jquery-3.3.1.min.js
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-jquery\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-scoutsuite/css/modal.css
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-scoutsuite\css\modal.css
+Content Type: text/css
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-scoutsuite/css/scoutsuite-light.css
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-scoutsuite\css\scoutsuite-light.css
+Content Type: text/css
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-scoutsuite/css/scoutsuite.css
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-scoutsuite\css\scoutsuite.css
+Content Type: text/css
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-scoutsuite/favicon.ico
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-scoutsuite\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-scoutsuite/helpers.js
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-scoutsuite\helpers.js
+Content Type: application/javascript
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-scoutsuite/pagination.js
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-scoutsuite\pagination.js
+Content Type: application/javascript
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-scoutsuite/provider.js
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-scoutsuite\provider.js
+Content Type: application/javascript
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-scoutsuite/scoutsuite.js
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-scoutsuite\scoutsuite.js
+Content Type: application/javascript
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/inc-scoutsuite/theme.js
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\inc-scoutsuite\theme.js
+Content Type: application/javascript
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/scoutsuite-results/scoutsuite_exceptions_aws.js
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\scoutsuite-results\scoutsuite_exceptions_aws.js
+Content Type: application/javascript
+
+Uri: https://ramimac.github.io/sadcloud-reports/scoutsuite-reports/scoutsuite-report_03_2020/scoutsuite-results/scoutsuite_results_aws.js
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\sadcloud-reports\scoutsuite-reports\scoutsuite-report_03_2020\scoutsuite-results\scoutsuite_results_aws.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/css/all.css
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-brands-400.eot
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-brands-400.eot?
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-brands-400.svg
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-brands-400.ttf
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-brands-400.woff
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-brands-400.woff2
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-regular-400.eot
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-regular-400.eot?
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-regular-400.svg
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-regular-400.ttf
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-regular-400.woff
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-regular-400.woff2
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-solid-900.eot
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-solid-900.eot?
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-solid-900.svg
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-solid-900.ttf
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-solid-900.woff
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.6.3/webfonts/fa-solid-900.woff2
+File Name: C:\Users\ThorisoMoteane\Desktop\Scoutsuite Webpage\ramimac.github.io\releases\v5.6.3\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
